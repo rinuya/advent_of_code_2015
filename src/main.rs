@@ -7,4 +7,6 @@ fn main() {
     days::day2::part2::run();
     days::day3::part1::run();
     days::day3::part2::run();
+    days::day4::part1::run();
+    days::day4::part2::run();
 }
