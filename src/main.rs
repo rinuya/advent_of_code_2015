@@ -9,4 +9,7 @@ fn main() {
     days::day3::part2::run();
     days::day4::part1::run();
     days::day4::part2::run();
+    days::day5::part1::run();
+    days::day5::part2::run();
+    
 }
